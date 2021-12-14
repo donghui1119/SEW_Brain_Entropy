@@ -1,4 +1,0 @@
-## Brain and Entropy
-
-Entropy
-
