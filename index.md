@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Brain and Entropy
 
-You can use the [editor on GitHub](https://github.com/donghui1119/SEW_Brain_Entropy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Entropy
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
