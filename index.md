@@ -9,6 +9,9 @@ Entropy indicates system irregularity, which remains relatively low in living sy
 
 <h2> Brain Entropy Calculation </h2>
 
+Distance Measure: try it on colab https://colab.research.google.com/drive/1Ftq0slcUJCf_KaKbHlJJ7spJaTEp-Etn
+
+
 fMRI-based Brain Entropy Mapping
 <p>
 you can download BENtbx from <a href="https://github.com/zewangnew/BENtbx">https://github.com/zewangnew/BENtbx</a> or go to  <a href="https://cfn.upenn.edu/zewang/BENtbx.php"> https://cfn.upenn.edu/zewang/BENtbx.php </a> to download the sample data and matlab code.
