@@ -19,7 +19,7 @@ you can download BENtbx from <a href="https://github.com/zewangnew/BENtbx">https
 
 <h3>1. Brain Entropy and fALFF, CBF </h3>
 
-<h3>2.Brain Entropy and rTMS </h3>
+<h3>2. Brain Entropy and rTMS </h3>
 
 
 <h3>3. Brain Entropy and Fluid Intelligence </h3>
