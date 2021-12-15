@@ -11,7 +11,7 @@ Entropy indicates system irregularity, which remains relatively low in living sy
 
 Distance Measure: 
 
-click <a href="https://colab.research.google.com/drive/1Ftq0slcUJCf_KaKbHlJJ7spJaTEp-Etn"> Calculation in python </a>
+click <a href="https://colab.research.google.com/drive/1Ftq0slcUJCf_KaKbHlJJ7spJaTEp-Etn?usp=sharing"> Calculation in python </a>
 
 
 fMRI-based Brain Entropy Mapping
