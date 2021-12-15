@@ -2,7 +2,7 @@
 
 <h2> Entropy from Thermodynamic to Brain Science </h2>
 
-1. Entropy indicates system irregularity, which remains relatively low in living systems but increases over time in any closed system like our universe as dictated by the second law of thermodynamics.
+Entropy indicates system irregularity, which remains relatively low in living systems but increases over time in any closed system like our universe as dictated by the second law of thermodynamics.
 
 
 
@@ -11,8 +11,7 @@
 
 fMRI-based Brain Entropy Mapping
 <p>
-you can download BENtxb from https://github.com/zewangnew/BENtbx or go to https://cfn.upenn.edu/zewang/BENtbx.php to download the sample data and matlab code.
-  
+you can download BENtxb from <a href="https://github.com/zewangnew/BENtbx">https://github.com/zewangnew/BENtbx</a> or go to  <a href="https://cfn.upenn.edu/zewang/BENtbx.php"> https://cfn.upenn.edu/zewang/BENtbx.php to download the sample data and matlab code.</a>
 </p>
 
 
