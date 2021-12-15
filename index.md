@@ -9,7 +9,9 @@ Entropy indicates system irregularity, which remains relatively low in living sy
 
 <h2> Brain Entropy Calculation </h2>
 
-Distance Measure: try it on colab https://colab.research.google.com/drive/1Ftq0slcUJCf_KaKbHlJJ7spJaTEp-Etn
+Distance Measure: 
+
+click <a href="https://colab.research.google.com/drive/1Ftq0slcUJCf_KaKbHlJJ7spJaTEp-Etn"> Calculation in python </a>
 
 
 fMRI-based Brain Entropy Mapping
