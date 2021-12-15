@@ -11,7 +11,7 @@ Entropy indicates system irregularity, which remains relatively low in living sy
 
 fMRI-based Brain Entropy Mapping
 <p>
-you can download BENtxb from <a href="https://github.com/zewangnew/BENtbx">https://github.com/zewangnew/BENtbx</a> or go to  <a href="https://cfn.upenn.edu/zewang/BENtbx.php"> https://cfn.upenn.edu/zewang/BENtbx.php </a> to download the sample data and matlab code.
+you can download BENtbx from <a href="https://github.com/zewangnew/BENtbx">https://github.com/zewangnew/BENtbx</a> or go to  <a href="https://cfn.upenn.edu/zewang/BENtbx.php"> https://cfn.upenn.edu/zewang/BENtbx.php </a> to download the sample data and matlab code.
 </p>
 
 
