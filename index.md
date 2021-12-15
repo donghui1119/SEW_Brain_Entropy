@@ -23,3 +23,11 @@ you can download BENtbx from <a href="https://github.com/zewangnew/BENtbx">https
 
 
 <h3>3. Brain Entropy and Fluid Intelligence </h3>
+
+
+<h2> Acknowledgements </h2>
+
+![image](https://user-images.githubusercontent.com/58476614/146124144-563dad66-536e-4eb0-ac8f-3f99ff5d1194.png)
+
+ <a href="https://www.medschool.umaryland.edu/pi/Ze-Wang-PhD/"> Wang Lab at University of Maryland School of Medicine </a>
+
