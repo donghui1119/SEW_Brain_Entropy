@@ -12,6 +12,8 @@ The second law of thermodynamics states that the total entropy of a system eith
 
 <h3> 1.3 Information Theory </h3>
 
+$ \displaystyle H(x)= -\sum_{i\in x} p(i)log_2{p(i)}  $
+
 
 <h3> 1.4 Biological Signal Measure </h3>
 
