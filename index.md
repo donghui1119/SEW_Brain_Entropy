@@ -38,25 +38,27 @@ Dr. Ze Wang (2014) proposed a fMRI-based Brain Entropy Mapping measure for resti
 
 <h2> 4. fMRI-based Brain Entropy Research </h2>
 
-<h3> 4.1. Associations of Brain Entropy (BEN) to cerebral blood flow and fractional amplitude of low-frequency fluctuations in the resting brain </h3>
+<h3> 4.1. Brain Entropy (BEN) and others measures in the resting brain </h3>
 
 ![image](https://user-images.githubusercontent.com/58476614/146124821-ed08a022-ef42-4674-8adb-c81c9630faea.png)
 
-BEN provides unique information that cannot be revealed by CBF and fALFF.
+<p>Brain entropy provides unique information that cannot be revealed by CBF and fALFF.</p>
 
 <h3> 4.2. Brain Entropy and rTMS </h3>
 ![image](https://user-images.githubusercontent.com/58476614/146124860-6b875479-f44a-4a11-a948-633f689fa291.png)
 
-Reduced brain entropy by repetitive transcranial magnetic stimulation on the left dorsolateral prefrontal cortex in healthy young adults
+<p>Reduced brain entropy by repetitive transcranial magnetic stimulation on the left dorsolateral prefrontal cortex in healthy young adults</p>
 
 <h3> 4.3. Brain Entropy and Fluid Intelligence </h3>
 
 ![image](https://user-images.githubusercontent.com/58476614/146124909-ea1b786f-8018-49d7-9f9d-8ca0daea80ef.png)
-Association of brain entropy and fluid intelligence in the young adults brain from HCP dataset
+
+<p>Association of brain entropy and fluid intelligence in the young adults brain from HCP dataset</p>
 
 
 ![image](https://user-images.githubusercontent.com/58476614/146124927-36ec8da7-595d-46c4-a073-2b6491df531f.png)
-Association of brain entropy and fluid intelligence in the adolescence brain from ABCD study
+
+<p>Association of brain entropy and fluid intelligence in the adolescence brain from ABCD study </p>
 
 <h2> 5. Acknowledgements </h2>
 
