@@ -27,7 +27,7 @@ Click <a href="https://colab.research.google.com/github/donghui1119/SEW_Brain_En
 <h2>fMRI-based Brain Entropy Mapping </h2>
 
 Dr. Ze Wang (2014) proposed a fMRI-based Brain Entropy Mapping measure for resting-state fMRI using sample entropy, you can find the original paper from
-<a> href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089948"> Brain Entropy Mapping Using fMRI </a>
+<a> href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089948"> </a> Brain Entropy Mapping Using fMRI </a>
 ,and he created a Brain Entropy Toolbox named BENtbx. You can download BENtbx from <a href="https://github.com/zewangnew/BENtbx"> https://github.com/zewangnew/BENtbx</a> or go to  <a href="https://cfn.upenn.edu/zewang/BENtbx.php"> https://cfn.upenn.edu/zewang/BENtbx.php </a> to download the sample data and matlab code.
 
 
