@@ -6,16 +6,20 @@
 
 Entropy is a scientific concept as well as a measurable physical property that is most commonly associated with a state of disorder, randomness, or uncertainty.
 
-<h3> 1.2 Thermodynamic </h3>
+<h3> 1.2 Entropy in Thermodynamic </h3>
 
 The second law of thermodynamics states that the total entropy of a system either increases or remains constant in any spontaneous process; it never decreases. An important implication of this law is that heat transfers energy spontaneously from higher- to lower-temperature objects, but never spontaneously in the reverse direction.
 
-<h3> 1.3 Information Theory </h3>
+<h3> 1.3 Entropy in Information Theory </h3>
 
-$ \displaystyle H(x)= -\sum_{i\in x} p(i)log_2{p(i)}  $
+In information theory, the entropy of a random variable is the average level of "information", "surprise", or "uncertainty" inherent to the variable's possible outcomes.
+
+<h3> 1.4 entropy in Biological Signal Measure </h3>
+
+Pincus (1991) introduced Approximate Entropy (ApEn) , a set of measures of system complexity closely related to entropy, which is easily applied to clinical cardiovascular and other time series. 
 
 
-<h3> 1.4 Biological Signal Measure </h3>
+Sample Entropy (SampEn) is a modification of approximate entropy (ApEn), used for assessing the complexity of physiological time-series signals, diagnosing diseased states.
 
 
 <h2> 2. Brain Entropy Calculation </h2>
