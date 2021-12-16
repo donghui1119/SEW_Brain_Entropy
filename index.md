@@ -1,22 +1,22 @@
 <h1> Brain Entropy </h1>
 
-<h2> Entropy from Thermodynamic to Brain Science </h2>
+<h2> 1.Entropy from Thermodynamic to Brain Science </h2>
 
-<h3> What is the Entropy </h3>
+<h3> 1.1 What is the Entropy </h3>
 
 Entropy is a scientific concept as well as a measurable physical property that is most commonly associated with a state of disorder, randomness, or uncertainty.
 
-<h3> Thermodynamic </h3>
+<h3> 1.2 Thermodynamic </h3>
 
 The second law of thermodynamics states that the total entropy of a system either increases or remains constant in any spontaneous process; it never decreases. An important implication of this law is that heat transfers energy spontaneously from higher- to lower-temperature objects, but never spontaneously in the reverse direction.
 
-<h3> Information Theory </h3>
+<h3> 1.3 Information Theory </h3>
 
 
-<h3> Biological Signal Measure </h3>
+<h3> 1.4 Biological Signal Measure </h3>
 
 
-<h2> Brain Entropy Calculation </h2>
+<h2> 2. Brain Entropy Calculation </h2>
 
 
 Click <a href="https://colab.research.google.com/drive/1Ftq0slcUJCf_KaKbHlJJ7spJaTEp-Etn?usp=sharing"> Distance Measures </a> to try Calculate different Distances including Euclidean Distance， Chebyshev Distance and Manhattan Distance.
@@ -24,26 +24,26 @@ Click <a href="https://colab.research.google.com/drive/1Ftq0slcUJCf_KaKbHlJJ7spJ
 Click <a href="https://colab.research.google.com/github/donghui1119/SEW_Brain_Entropy/blob/gh-pages/SEW_Entropy%20Calculation.ipynb"> Calculate Entropy </a> to try Calculate Shannon Entropy, Approximate Entropy, Sample Entropy.
 
 
-<h2>fMRI-based Brain Entropy Mapping </h2>
+<h2> 3. fMRI-based Brain Entropy Mapping </h2>
 
 Dr. Ze Wang (2014) proposed a fMRI-based Brain Entropy Mapping measure for resting-state fMRI using sample entropy, you can find the original paper from
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089948"> Brain Entropy Mapping Using fMRI </a>,and he created a Brain Entropy Toolbox named BENtbx. You can download BENtbx from <a href="https://github.com/zewangnew/BENtbx"> https://github.com/zewangnew/BENtbx</a> or go to  <a href="https://cfn.upenn.edu/zewang/BENtbx.php"> https://cfn.upenn.edu/zewang/BENtbx.php </a> to download the sample data and matlab code.
 
 
-<h2> fMRI-based Brain Entropy Research </h2>
+<h2> 4. fMRI-based Brain Entropy Research </h2>
 
-<h3>1. Associations of Brain Entropy (BEN) to cerebral blood flow and fractional amplitude of low-frequency fluctuations in the resting brain </h3>
+<h3> 4.1. Associations of Brain Entropy (BEN) to cerebral blood flow and fractional amplitude of low-frequency fluctuations in the resting brain </h3>
 
 ![image](https://user-images.githubusercontent.com/58476614/146124821-ed08a022-ef42-4674-8adb-c81c9630faea.png)
 
 BEN provides unique information that cannot be revealed by CBF and fALFF.
 
-<h3>2. Brain Entropy and rTMS </h3>
+<h3> 4.2. Brain Entropy and rTMS </h3>
 ![image](https://user-images.githubusercontent.com/58476614/146124860-6b875479-f44a-4a11-a948-633f689fa291.png)
 
 Reduced brain entropy by repetitive transcranial magnetic stimulation on the left dorsolateral prefrontal cortex in healthy young adults
 
-<h3>3. Brain Entropy and Fluid Intelligence </h3>
+<h3> 4.3. Brain Entropy and Fluid Intelligence </h3>
 
 ![image](https://user-images.githubusercontent.com/58476614/146124909-ea1b786f-8018-49d7-9f9d-8ca0daea80ef.png)
 Association of brain entropy and fluid intelligence in the young adults brain from HCP dataset
@@ -52,7 +52,7 @@ Association of brain entropy and fluid intelligence in the young adults brain fr
 ![image](https://user-images.githubusercontent.com/58476614/146124927-36ec8da7-595d-46c4-a073-2b6491df531f.png)
 Association of brain entropy and fluid intelligence in the adolescence brain from ABCD study
 
-<h2> Acknowledgements </h2>
+<h2> 5. Acknowledgements </h2>
 
 ![image](https://user-images.githubusercontent.com/58476614/146124144-563dad66-536e-4eb0-ac8f-3f99ff5d1194.png)
 
