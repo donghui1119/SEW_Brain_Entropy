@@ -22,7 +22,7 @@ Pincus (1991) introduced Approximate Entropy (ApEn) , a set of measures of syste
 Sample Entropy (SampEn) is a modification of approximate entropy (ApEn), used for assessing the complexity of physiological time-series signals, diagnosing diseased states.
 
 
-<h2> 2. Brain Entropy Calculation </h2>
+<h2> 2. Entropy Calculation </h2>
 
 
 Click <a href="https://colab.research.google.com/drive/1Ftq0slcUJCf_KaKbHlJJ7spJaTEp-Etn?usp=sharing"> Distance Measures </a> to try Calculate different Distances including Euclidean Distance， Chebyshev Distance and Manhattan Distance.
@@ -32,8 +32,8 @@ Click <a href="https://colab.research.google.com/github/donghui1119/SEW_Brain_En
 
 <h2> 3. fMRI-based Brain Entropy Mapping </h2>
 
-Dr. Ze Wang (2014) proposed a fMRI-based Brain Entropy Mapping measure for resting-state fMRI using sample entropy, you can find the original paper from
-<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089948"> Brain Entropy Mapping Using fMRI </a>,and he created a Brain Entropy Toolbox named BENtbx. You can download BENtbx from <a href="https://github.com/zewangnew/BENtbx"> https://github.com/zewangnew/BENtbx</a> or go to  <a href="https://cfn.upenn.edu/zewang/BENtbx.php"> https://cfn.upenn.edu/zewang/BENtbx.php </a> to download the sample data and matlab code.
+Dr. Ze Wang (2014) proposed a fMRI-based Brain Entropy Mapping for resting-state fMRI using sample entropy, you can find the original paper from
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089948"> Brain Entropy Mapping Using fMRI </a>,and he created a Brain Entropy Mapping Toolbox named BENtbx. You can download BENtbx from <a href="https://github.com/zewangnew/BENtbx"> https://github.com/zewangnew/BENtbx</a> or go to  <a href="https://cfn.upenn.edu/zewang/BENtbx.php"> https://cfn.upenn.edu/zewang/BENtbx.php </a> to download the sample data and matlab code.
 
 
 <h2> 4. fMRI-based Brain Entropy Research </h2>
