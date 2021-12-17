@@ -4,35 +4,35 @@
 
 <h3> 1.1 What is the Entropy </h3>
 
-Entropy is a scientific concept as well as a measurable physical property that is most commonly associated with a state of disorder, randomness, or uncertainty.
+- Entropy is a scientific concept as well as a measurable physical property that is most commonly associated with a state of disorder, randomness, or uncertainty.
 
 <h3> 1.2 Entropy in Thermodynamic </h3>
 
-The second law of thermodynamics states that the total entropy of a system either increases or remains constant in any spontaneous process; it never decreases. An important implication of this law is that heat transfers energy spontaneously from higher- to lower-temperature objects, but never spontaneously in the reverse direction.
+- The second law of thermodynamics states that the total entropy of a system either increases or remains constant in any spontaneous process; it never decreases. An important implication of this law is that heat transfers energy spontaneously from higher- to lower-temperature objects, but never spontaneously in the reverse direction.
 
 <h3> 1.3 Entropy in Information Theory </h3>
 
-In information theory, the entropy of a random variable is the average level of "information", "surprise", or "uncertainty" inherent to the variable's possible outcomes.
+- In information theory, the entropy of a random variable is the average level of "information", "surprise", or "uncertainty" inherent to the variable's possible outcomes.
 
 <h3> 1.4 entropy in Biological Signal Measure </h3>
 
-Pincus (1991) introduced Approximate Entropy (ApEn) , a set of measures of system complexity closely related to entropy, which is easily applied to clinical cardiovascular and other time series. 
+- Pincus (1991) introduced Approximate Entropy (ApEn) , a set of measures of system complexity closely related to entropy, which is easily applied to clinical cardiovascular and other time series. 
 
 
-Sample Entropy (SampEn) is a modification of approximate entropy (ApEn), used for assessing the complexity of physiological time-series signals, diagnosing diseased states.
+- Sample Entropy (SampEn) is a modification of approximate entropy (ApEn), used for assessing the complexity of physiological time-series signals, diagnosing diseased states.
 
 
 <h2> 2. Entropy Calculation </h2>
 
 
-Click <a href="https://colab.research.google.com/drive/1Ftq0slcUJCf_KaKbHlJJ7spJaTEp-Etn?usp=sharing"> Distance Measures </a> to try Calculate different Distances including Euclidean Distance， Chebyshev Distance and Manhattan Distance.
+- Click <a href="https://colab.research.google.com/drive/1Ftq0slcUJCf_KaKbHlJJ7spJaTEp-Etn?usp=sharing"> Distance Measures </a> to try Calculate different Distances including Euclidean Distance， Chebyshev Distance and Manhattan Distance.
 
-Click <a href="https://colab.research.google.com/github/donghui1119/SEW_Brain_Entropy/blob/gh-pages/SEW_Entropy%20Calculation.ipynb"> Calculate Entropy </a> to try Calculate Shannon Entropy, Approximate Entropy, Sample Entropy.
+- Click <a href="https://colab.research.google.com/github/donghui1119/SEW_Brain_Entropy/blob/gh-pages/SEW_Entropy%20Calculation.ipynb"> Calculate Entropy </a> to try Calculate Shannon Entropy, Approximate Entropy, Sample Entropy.
 
 
 <h2> 3. fMRI-based Brain Entropy Mapping </h2>
 
-Dr. Ze Wang (2014) proposed a fMRI-based Brain Entropy Mapping for resting-state fMRI using sample entropy, you can find the original paper from
+- Dr. Ze Wang (2014) proposed a fMRI-based Brain Entropy Mapping for resting-state fMRI using sample entropy, you can find the original paper from
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089948"> Brain Entropy Mapping Using fMRI </a>,and he created a Brain Entropy Mapping Toolbox named BENtbx. You can download BENtbx from <a href="https://github.com/zewangnew/BENtbx"> https://github.com/zewangnew/BENtbx</a> or go to  <a href="https://cfn.upenn.edu/zewang/BENtbx.php"> https://cfn.upenn.edu/zewang/BENtbx.php </a> to download the sample data and matlab code.
 
 
