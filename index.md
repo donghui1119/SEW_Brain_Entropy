@@ -14,7 +14,7 @@
 
 - In information theory, the entropy of a random variable is the average level of "information", "surprise", or "uncertainty" inherent to the variable's possible outcomes.
 
-<h3> 1.4 entropy in Biological Signal Measure </h3>
+<h3> 1.4 Entropy in Biological Signal Measure </h3>
 
 - Pincus (1991) introduced Approximate Entropy (ApEn) , a set of measures of system complexity closely related to entropy, which is easily applied to clinical cardiovascular and other time series. 
 
