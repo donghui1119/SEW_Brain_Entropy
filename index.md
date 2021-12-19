@@ -1,6 +1,6 @@
 <h1> Brain Entropy </h1>
 
-Thanks for you are interesting to our study. There is overview about this workshop,you also can download the <a href="https://github.com/donghui1119/SEW_Brain_Entropy/raw/main/SEW_Brain_Entropy_DonghuiSong.pdf"> PPT <a> about Brain and Entropy. I will update the content if I am free in the future.
+Thanks for you are interesting to our study. Here is overview about this workshop,you also can download the <a href="https://github.com/donghui1119/SEW_Brain_Entropy/raw/main/SEW_Brain_Entropy_DonghuiSong.pdf"> PPT <a> about Brain and Entropy. I will update the content if I am free in the future.
 
 
 <h2> 1.Entropy from Thermodynamic to Brain Science </h2>
