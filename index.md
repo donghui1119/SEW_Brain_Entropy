@@ -45,23 +45,23 @@ Thanks for you are interesting to our study. Here is overview about this worksho
 
 ![image](https://user-images.githubusercontent.com/58476614/146124821-ed08a022-ef42-4674-8adb-c81c9630faea.png)
 
-<p>Brain entropy provides unique information that cannot be revealed by CBF and fALFF. a. correlation of BEN and CBF; b. correlation of BEN and fALFF; c. correlation of CBF and fALFF </p>
+<p>Brain entropy provides unique information that cannot be revealed by CBF and fALFF (Donghui Song et al., 2019b, Brain Imaging and Behavior). a. correlation of BEN and CBF; b. correlation of BEN and fALFF; c. correlation of CBF and fALFF </p>
 
 <h3> 4.2. Brain Entropy and rTMS </h3>
 ![image](https://user-images.githubusercontent.com/58476614/146124860-6b875479-f44a-4a11-a948-633f689fa291.png)
 
-<p>Reduced Brain Entropy by rTMS on the left DLPFC in healthy young adults. a. post-rTMS vs pre-rTMS; b. post-SHAM vs pre-SHAM; c. rTMS-SHAM </p>
+<p>Reduced Brain Entropy by rTMS on the left DLPFC in healthy young adults(Donghui Song et al., 2019a, Brain Imaging and Behavior). a. post-rTMS vs pre-rTMS; b. post-SHAM vs pre-SHAM; c. rTMS-SHAM </p>
 
 <h3> 4.3. Brain Entropy and Fluid Intelligence </h3>
 
 ![image](https://user-images.githubusercontent.com/58476614/146124909-ea1b786f-8018-49d7-9f9d-8ca0daea80ef.png)
 
-<p>Association of brain entropy and fluid intelligence in the young adults brain from HCP</p>
+<p>Association of brain entropy and fluid intelligence in the young adults brain from HCP (Ze Wang,2021,Neuroimage)</p>
 
 
 ![image](https://user-images.githubusercontent.com/58476614/146124927-36ec8da7-595d-46c4-a073-2b6491df531f.png)
 
-<p>Association of brain entropy and fluid intelligence in the adolescence brain from ABCD study </p>
+<p>Association of brain entropy and fluid intelligence in the adolescence brain from ABCD study (Donghui Song et al.,2021,OHBM2021) </p>
 
 <h2> 5. Acknowledgements </h2>
 
