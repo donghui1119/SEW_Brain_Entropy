@@ -42,18 +42,18 @@
 
 ![image](https://user-images.githubusercontent.com/58476614/146124821-ed08a022-ef42-4674-8adb-c81c9630faea.png)
 
-<p>Brain entropy provides unique information that cannot be revealed by CBF and fALFF.</p>
+<p>Brain entropy provides unique information that cannot be revealed by CBF and fALFF. a. correlation of BEN and CBF; b. correlation of BEN and fALFF; c. correlation of CBF and fALFF </p>
 
 <h3> 4.2. Brain Entropy and rTMS </h3>
 ![image](https://user-images.githubusercontent.com/58476614/146124860-6b875479-f44a-4a11-a948-633f689fa291.png)
 
-<p>Reduced brain entropy by repetitive transcranial magnetic stimulation on the left dorsolateral prefrontal cortex in healthy young adults</p>
+<p>Reduced Brain Entropy by rTMS on the left DLPFC in healthy young adults. a. post-rTMS vs pre-rTMS; b. post-SHAM vs pre-SHAM; c. rTMS-SHAM </p>
 
 <h3> 4.3. Brain Entropy and Fluid Intelligence </h3>
 
 ![image](https://user-images.githubusercontent.com/58476614/146124909-ea1b786f-8018-49d7-9f9d-8ca0daea80ef.png)
 
-<p>Association of brain entropy and fluid intelligence in the young adults brain from HCP dataset</p>
+<p>Association of brain entropy and fluid intelligence in the young adults brain from HCP</p>
 
 
 ![image](https://user-images.githubusercontent.com/58476614/146124927-36ec8da7-595d-46c4-a073-2b6491df531f.png)
