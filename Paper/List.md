@@ -1,0 +1,1 @@
+1. Wang, Z., Li, Y., Childress, A. R., & Detre, J. A. (2014). Brain entropy mapping using fMRI. PloS one, 9(3), e89948. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089948" > online <a>  >
