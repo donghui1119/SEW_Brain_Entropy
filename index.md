@@ -2,6 +2,9 @@
 
 Thanks for you are interesting to our study. Here is overview about this workshop,you also can download the <a href="https://github.com/donghui1119/SEW_Brain_Entropy/raw/main/SEW_Brain_Entropy_DonghuiSong.pdf"> PPT </a> about Brain and Entropy. 
 
+To Learn more:
+
+
 <a href="https://github.com/donghui1119/SEW_Brain_Entropy/blob/main/Concept/List.md"> Concept </a>
 
 
