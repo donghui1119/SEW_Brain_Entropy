@@ -18,7 +18,7 @@ Chinese 中文
 
 <a href = "https://zh.wikipedia.org/wiki/%E5%85%8B%E5%8A%B3%E5%BE%B7%C2%B7%E9%A6%99%E5%86%9C"> 香农 </a>
 
-< a href = "https://neu-reality.com/2018/12/karl-friston/ "> Karl·Friston 卡尔·弗里斯顿 </a>
+<a href = "https://neu-reality.com/2018/12/karl-friston/">卡尔·弗里斯顿 (Karl·Friston) </a>
 
 热力学
 
